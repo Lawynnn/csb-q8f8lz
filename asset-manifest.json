@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://lawynnn.github.io/csb-q8f8lz/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://lawynnn.github.io/csb-q8f8lz/static/js/main.7d0a9e4b.chunk.js",
+    "main.js.map": "https://lawynnn.github.io/csb-q8f8lz/static/js/main.7d0a9e4b.chunk.js.map",
+    "runtime-main.js": "https://lawynnn.github.io/csb-q8f8lz/static/js/runtime-main.9a755f0e.js",
+    "runtime-main.js.map": "https://lawynnn.github.io/csb-q8f8lz/static/js/runtime-main.9a755f0e.js.map",
+    "static/js/2.9ec0feec.chunk.js": "https://lawynnn.github.io/csb-q8f8lz/static/js/2.9ec0feec.chunk.js",
+    "static/js/2.9ec0feec.chunk.js.map": "https://lawynnn.github.io/csb-q8f8lz/static/js/2.9ec0feec.chunk.js.map",
+    "index.html": "https://lawynnn.github.io/csb-q8f8lz/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://lawynnn.github.io/csb-q8f8lz/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.9ec0feec.chunk.js.LICENSE.txt": "https://lawynnn.github.io/csb-q8f8lz/static/js/2.9ec0feec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a755f0e.js",
+    "static/js/2.9ec0feec.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7d0a9e4b.chunk.js"
+  ]
+}
